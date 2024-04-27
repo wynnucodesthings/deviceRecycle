@@ -1,5 +1,3 @@
-Certainly! Here's the readme template with placeholders for where you can insert images:
-
 ---
 
 # deviceRecycle
@@ -117,5 +115,3 @@ Congratulations! You've successfully set up your home server. Explore additional
 <!-- ![Conclusion](path_to_your_image) -->
 
 ---
-
-Just replace `path_to_your_image` with the actual paths to your images.
