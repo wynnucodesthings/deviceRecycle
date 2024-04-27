@@ -1,4 +1,3 @@
----
 
 # deviceRecycle
 
@@ -113,5 +112,3 @@ Access Jellyfin via `<your_ip>:8096` in a browser to set it up. Install the Jell
 Congratulations! You've successfully set up your home server. Explore additional functionalities such as custom DNS servers, VPNs, and local game or website servers.
 
 <!-- ![Conclusion](path_to_your_image) -->
-
----
