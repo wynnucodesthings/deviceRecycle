@@ -16,7 +16,7 @@ Your internet modem must give you access to it's admin dashboard, have an ethern
 
 ## Step one: Preparing the installation
 Assuming you have already burnt the image of debian onto your USB drive. Plug in the USB and turn on the laptop and boot into bios. <br/><br/>
-Now once you're in bios. Head to boot and find the option for secure boot, follow by changing the secure boot option to other os. <br/>
+Now once you're in bios. Head to boot and find the option for secure boot, follow by changing the secure boot option to other os(this can also be off or anything). <br/>
 #### Note: All devices have different bios firmwares and they tend to be different from one another. If you cannot find the option mentioned here, look on your own and find it in the bios. it's always there but labed differently.
 Once you've changed your secure boot options, change the boot order so that the flash drive will boot instead of your default operating system, and boot through the USB,
 
