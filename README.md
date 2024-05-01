@@ -30,7 +30,7 @@ Once you reach the disk partitioning section, pick the option that it recommends
 
 ### Finishing your install
 
-At the end of your install you get a few options you can choose to download before fully installing the system. pick ssh server and finish the install. <br/><br/>
+At the end of your install you get a few options you can choose to download before fully installing the system. Turn on the ssh server and the system utilities, turn everything else off and finish the install. <br/><br/>
 
 The device should restart at the end. remove the USB once it starts restarting.
 
