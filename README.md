@@ -10,7 +10,7 @@ You need to burn an image of debian onto your USB drive using balenaEtcher:
 https://etcher.balena.io/ <br/><br/>
 The image of debian can be downloaded from:
 https://www.debian.org/ <br/><br/>
-Your internet router must give you access to it's admin dashboard, have a lan port and allow you to setup DHCP settings. <br/>
+Your internet modem must give you access to it's admin dashboard, have an ethernet port and allow you to change DHCP settings. <br/>
 
 #### Note: following this tutorial WILL destroy all data that has been stored on this computer. please backup anything you want to keep.
 
