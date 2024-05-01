@@ -8,7 +8,7 @@ For this guide you need to install an operating system called debian onto your m
 ### Prerequisite:
 You need to burn an image of debian onto your USB drive using balenaEtcher:
 https://etcher.balena.io/ <br/><br/>
-The image of debian can be downloaded from: https://github.com/wynnucodesthings/deviceRecycle/network/dependencies
+The image of debian can be downloaded from:
 https://www.debian.org/ <br/><br/>
 Your internet router must give you access to it's admin dashboard, have a lan port and allow you to setup DHCP settings. <br/>
 
