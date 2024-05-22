@@ -96,7 +96,7 @@ and also add the newly created folder to your config too:
 
 Save your changes by pressing Ctrl+X, then Y and Enter.
 <br/><br/>
-Lastly, run `sudo smbpasswd -a youruser` and set a password for Samba. This will be the password you’ll use on client machines to connect to the network storage. To restart Samba and make sure the changes go through, `run sudo systemctl restart smbd`.
+Lastly, run `sudo smbpasswd -a youruser` and set a password for Samba. This will be the password you’ll use on client machines to connect to the network storage. To restart Samba and make sure the changes go through, run `sudo systemctl restart smbd`.
 ### Connecting to your remote drive
 On your Windows PC, you can right-click This PC in the Explorer, and select Map network drive. <br/>
 Input two backslashes followed by the IP of your server(eg: \\\192.168.8.77\myfiles), make sure it’s valid by clicking “Browse” and seeing if your files are in there as they should be.
